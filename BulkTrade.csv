@@ -1,0 +1,3 @@
+Book,Buy/Sell,Deal/Tranche Identifier,Trading Counterparty,Quantity,Price,Trade Credit Type,Salesperson/Broker,Sales Credit,Risk Code,Priority,Trade Date,Comments,Target Settlement Date,Fee Treatment,Settlement Counterparty Identifier,Form of Purchase,Interest Treatment,Par/Dist
+QZ_Loans.MQUS,Sell,QZ_Loans.9223,UBS,"1,000,000",99.3,Retail - Trading Executed,,,Riskless,Priority,,,,,,Netting Letter,Flat,Par
+QZ_Loans.TLP8,Sell,QZ_Loans.9223,UBS,"1,000,000",99.3,Retail - Trading Executed,,,Riskless,Priority,,,,,,Netting Letter,Flat,Par
